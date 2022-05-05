@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 #define LOG_TAG "android.hardware.biometrics.fingerprint@2.3-service-X00TD"
-#define LOG_VERBOSE "android.hardware.biometrics.fingerprint@2.3-service-X00TD"
 
 #include <hardware/hw_auth_token.h>
 
